@@ -1,10 +1,12 @@
  ## 👋 Hi, I’m Avani Mathur
  <hr>
  📚 I'm a 2nd year Computer Science And Engineering Student at Indira Gandhi Delhi Technical University For Women 
+ <!---
  <br>👀 I’m interested in ...
  <br>🌱 I’m currently learning ...
  <br>💞️ I’m looking to collaborate on ...
-
+--->
+<br>
  <br>
  
 ## 🌐 Socials:
@@ -12,7 +14,7 @@
 
 <br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack & Skills :
 
 <a href="#" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,postman,cpp,vercel,netlify,git&perline=11" />
@@ -22,8 +24,6 @@
 </a>
 
 <br>
-
-## 💻Skills and Tools Usage
 
 <h4 align="left">📋 Programming Languages</h4>
 <p>
@@ -39,14 +39,17 @@
 <p>
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp;
 </p>
-<!--- 
+ 
 <h4 align="left">💾 Database</h4>
 <p>
+<!---
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"> &nbsp;
- <img src="https://img.shields.io/badge/MySQL?style=for-the-badge&logo=mysql&logoColor=blue""> ;
-</p>
 --->
+
+<img src="https://img.shields.io/badge/MySQL-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+</p>
 <h4 align="left">🕓 Version Control and 🔬 CI</h4>
 <p>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> &nbsp;
