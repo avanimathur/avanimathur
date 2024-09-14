@@ -17,14 +17,14 @@
 ## 💻 Tech Stack & Skills :
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,postman,cpp,vercel,netlify,git&perline=11" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,mysql,postman,markdown,vercel,netlify,git&perline=12" />
 
 <!--- <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,jquery,php,mysql,postman,cpp,vercel,netlify,git&perline=11" /> --->
 
 </a>
 
 <br>
-
+<!---
 <h4 align="left">📋 Programming Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />&nbsp;
@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+--->
 </p>
 
 <h4 align="left">📚 Frameworks</h4>
