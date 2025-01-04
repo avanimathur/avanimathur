@@ -1,6 +1,6 @@
  ## 👋 Hi, I’m Avani Mathur
  <hr>
- 📚 I'm a 2nd year Computer Science And Engineering Student at Indira Gandhi Delhi Technical University For Women 
+ 📚 I'm a Computer Science And Engineering Student at Indira Gandhi Delhi Technical University For Women 
  <!---
  <br>👀 I’m interested in ...
  <br>🌱 I’m currently learning ...
